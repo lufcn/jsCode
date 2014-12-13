@@ -1,3 +1,3 @@
 jsCode
 ======
-it is just some js Code　Fragment
+just some js code fragment
